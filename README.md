@@ -1,4 +1,3 @@
-# Design_Structure
 ## StoryBook을 통한 디자인 구조 테스트
 ### 추구하는 방향
 * 코드의 간결화
