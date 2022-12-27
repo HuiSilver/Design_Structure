@@ -3,7 +3,7 @@ import React from "react";
 import ButtonCapsule from "./ButtonCapsule";
 
 export default {
-  title: "component/Button",
+  title: "Component/Atom/Button",
   component: ButtonCapsule,
   argTypes: {
     className: { control: "text" },
